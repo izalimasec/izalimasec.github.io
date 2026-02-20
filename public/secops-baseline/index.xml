@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iza Lima | SecOps e Forense – Secops Baseline</title>
+    <link>http://localhost:1313/secops-baseline/</link>
+    <description>Recent content in Secops Baseline on Iza Lima | SecOps e Forense</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 20 Feb 2026 14:46:25 -0300</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/secops-baseline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

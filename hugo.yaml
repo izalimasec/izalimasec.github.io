@@ -5,15 +5,21 @@ theme: hextra
 languageCode: pt-br
 defaultContentLanguage: pt-br
 
-# Configuração de Menus do Hextra
+# === TOPOLOGIA DE NAVEGAÇÃO: SECURE BY DESIGN ===
 menu:
   main:
-    - name: Wiki Técnica
-      url: /docs
+    - name: Artigos Técnicos e Ferramentas
+      pageRef: /artigos-tecnicos
       weight: 10
-    - name: Blog
-      url: /posts
+    - name: Iza-Chronicles
+      pageRef: /iza-chronicles
       weight: 20
+    - name: SecOps-Infrastructure-Baseline
+      pageRef: /secops-baseline
+      weight: 30
+    - name: Termos e Privacidade
+      pageRef: /termos-e-privacidade
+      weight: 40
 
 params:
   navbar:
@@ -21,3 +27,8 @@ params:
     displayLogo: true
   footer:
     displayCopyright: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true    

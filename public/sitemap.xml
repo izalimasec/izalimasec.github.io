@@ -2,51 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/comptia-secplus/01-governan%C3%A7a-e-risco/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/microsoft-learn/entra-id-gestao-identidade/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/arquitetura-defesa-distribuida/</loc>
-    <lastmod>2026-02-20T11:59:01-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2026-02-20T11:59:01-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/maldicao-proatividade/</loc>
-    <lastmod>2026-02-20T11:59:01-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-20T11:59:01-03:00</lastmod>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-20T11:57:18-03:00</lastmod>
+    <loc>http://localhost:1313/artigos-tecnicos/dominando-o-cli/</loc>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/system-update-2025/</loc>
-    <lastmod>2026-02-20T11:57:18-03:00</lastmod>
+    <loc>http://localhost:1313/tags/cli/</loc>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-fisica-dos-encontros/</loc>
-    <lastmod>2026-02-20T11:57:16-03:00</lastmod>
+    <loc>http://localhost:1313/tags/governan%C3%A7a/</loc>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/intuicao-baseada-em-dados/</loc>
-    <lastmod>2026-02-20T11:57:16-03:00</lastmod>
+    <loc>http://localhost:1313/tags/mindset/</loc>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-singularidade-de-ser/</loc>
-    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/filosofia/</loc>
-    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/humanidade/</loc>
-    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/interstellar/</loc>
-    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/secops/</loc>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zero-trust/</loc>
+    <lastmod>2026-02-20T15:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/termos-e-privacidade/</loc>
+    <lastmod>2026-02-20T14:47:51-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artigos-tecnicos/</loc>
+    <lastmod>2026-02-20T14:47:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/iza-chronicles/</loc>
+    <lastmod>2026-02-20T14:47:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/secops-baseline/</loc>
+    <lastmod>2026-02-20T14:46:25-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/principio-de-locard/</loc>
   </url>
 </urlset>
