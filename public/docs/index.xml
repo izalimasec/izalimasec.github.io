@@ -51,5 +51,42 @@
       </description>
     </item>
     
+    <item>
+      <title>Gestão de Identidade com Microsoft Entra ID</title>
+      <link>http://localhost:1313/docs/microsoft-learn/entra-id-gestao-identidade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/microsoft-learn/entra-id-gestao-identidade/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;🔑 SC-300: O Novo Perímetro de Segurança&lt;/h1&gt;&lt;p&gt;No modelo &lt;strong&gt;Zero Trust&lt;/strong&gt;, a identidade é o primeiro sinal de defesa. Como Engenheira de SecOps, meu foco no Entra ID (antigo Azure AD) é garantir que o acesso certo seja dado à pessoa certa, no momento certo.&lt;/p&gt;
+&lt;h2&gt;🛡️ Pilares da Gestão de Acesso&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-pilares-da-gestão-de-acesso&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-pilares-da-gest%c3%a3o-de-acesso&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. Acesso Condicional (Conditional Access)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-acesso-condicional-conditional-access&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-acesso-condicional-conditional-access&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Não basta ter a senha. O sistema analisa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;User/Location:&lt;/strong&gt; De onde vem o acesso?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Device:&lt;/strong&gt; O dispositivo é gerenciado e seguro?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application:&lt;/strong&gt; Qual recurso está sendo acessado?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risk:&lt;/strong&gt; Existe comportamento anómalo? (Integração com ID Protection).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Privileged Identity Management (PIM)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-privileged-identity-management-pim&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-privileged-identity-management-pim&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;O conceito de &lt;strong&gt;Just-In-Time (JIT)&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ninguém tem privilégios de administrador permanentemente.&lt;/li&gt;
+&lt;li&gt;O acesso é ativado por tempo limitado e requer aprovação ou MFA.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Garantia de Integridade:&lt;/strong&gt; Redução drástica da movimentação lateral em caso de comprometimento.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📊 Governança e Auditabilidade&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-governança-e-auditabilidade&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-governan%c3%a7a-e-auditabilidade&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Todo log de entrada e alteração de privilégio deve ser ingerido pelo &lt;strong&gt;Microsoft Sentinel&lt;/strong&gt; para análise forense e conformidade com a LGPD.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;Identidade é o novo firewall. Se a identidade for comprometida, o perímetro deixa de existir.&amp;rdquo;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
