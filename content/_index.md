@@ -1,8 +1,8 @@
 ﻿---
-title: "Perímetro SecOps: Iza Lima"
+title: "Iza Lima | SecOps e Forense"
 ---
 
-<img src="/images/avatar.jpg" alt="Iza Lima" style="width:160px; border-radius:50%; border: 3px solid #000; margin-top: 20px;">
+<img src="/images/avatar.png" alt="Iza Lima" style="width:160px; border-radius:50%; border: 3px solid #5865F2; margin-top: 20px;">
 
 ## Systems Analyst | SecOps | Infrastructure
 
