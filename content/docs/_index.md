@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# 🛡️ Perímetro SecOps: Iza Lima
+# Written by Systems Analyst | SecOps | Infrastructure
 
 Bem-vinda ao meu repositório de conhecimento técnico. 
 
