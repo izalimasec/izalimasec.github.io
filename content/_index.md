@@ -4,7 +4,6 @@ title: "Iza Lima | SecOps e Forense"
 
 <img src="/images/avatar.png" alt="Iza Lima" style="width:160px; border-radius:50%; border: 3px solid #5865F2; margin-top: 20px;">
 
-## Systems Analyst | SecOps | Infrastructure
 
 Escritora de Ciência Forense e Defesa Cibernética. Analista de Sistemas com foco em infraestrutura legada e migração para ambientes de alta segurança.
 
