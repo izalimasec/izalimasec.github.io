@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iza Lima | SecOps e Forense – Iza Lima | SecOps e Forense</title>
+    <title>Iza Lima | SecOps e Forense – Perímetro SecOps - Iza Lima</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Iza Lima | SecOps e Forense</description>
+    <description>Recent content in Perímetro SecOps - Iza Lima on Iza Lima | SecOps e Forense</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <lastBuildDate>Fri, 20 Feb 2026 11:59:01 -0300</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
