@@ -1,5 +1,4 @@
----
+﻿---
 title: Blog
+type: blog
 ---
-
-Reflexões e artigos sobre a minha jornada InfoSec.
