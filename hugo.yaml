@@ -1,0 +1,23 @@
+baseURL: "https://izalimasec.github.io/"
+title: "Iza Lima | SecOps e Forense"
+theme: hextra
+
+languageCode: pt-br
+defaultContentLanguage: pt-br
+
+# Configuração de Menus do Hextra
+menu:
+  main:
+    - name: Wiki Técnica
+      url: /docs
+      weight: 10
+    - name: Blog
+      url: /posts
+      weight: 20
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+  footer:
+    displayCopyright: true
