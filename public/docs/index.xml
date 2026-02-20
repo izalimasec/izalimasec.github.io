@@ -14,5 +14,42 @@
       
     
     
+    <item>
+      <title>Domínio 1.0: Governança, Risco e Conformidade</title>
+      <link>http://localhost:1313/docs/comptia-secplus/01-governan%C3%A7a-e-risco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/comptia-secplus/01-governan%C3%A7a-e-risco/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;🛡️ Preparação SY0-701: Governança e Gestão de Risco&lt;/h1&gt;&lt;p&gt;Iniciando o mapeamento do primeiro domínio da CompTIA Security+. Para uma profissional de SecOps, entender que a segurança começa na política e termina no log é fundamental.&lt;/p&gt;
+&lt;h2&gt;1.1 Processos de Governança&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-processos-de-governança&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#11-processos-de-governan%c3%a7a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A governança não é burocracia; é a &lt;strong&gt;Garantia de Integridade&lt;/strong&gt; da operação.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Políticas de Segurança:&lt;/strong&gt; O &amp;ldquo;Kernel&amp;rdquo; das regras da organização.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Padrões (Standards):&lt;/strong&gt; Os protocolos obrigatórios (ex: uso de criptografia AES-256).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Procedimentos (SOPs):&lt;/strong&gt; O &amp;ldquo;passo a passo&amp;rdquo; técnico, como o hardening de um AD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1.2 Gestão de Risco (Risk Management)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-gestão-de-risco-risk-management&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#12-gest%c3%a3o-de-risco-risk-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Em SecOps, não eliminamos o risco, nós o gerenciamos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Identificação:&lt;/strong&gt; Quais ativos estão na superfície de ataque?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Análise Qualitativa vs. Quantitativa:&lt;/strong&gt; * &lt;em&gt;Qualitativa:&lt;/em&gt; Impacto (Alto/Médio/Baixo).
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Quantitativa:&lt;/em&gt; SLE x ARO = ALE (Cálculo do impacto financeiro).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tratamento:&lt;/strong&gt; Aceitar, Evitar, Transferir ou Mitigar (o foco do Blue Team).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;O excesso de documentação é Rastreabilidade. O que não é medido, não é gerenciado.&amp;rdquo;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
